@@ -7,8 +7,8 @@ const Home = () => {
       <nav>
         <Link to="/">Home</Link>
         <Link to="/friend">Friends</Link>
-        <Link to="/about">About</Link>
         <Link to="/post">Post</Link>
+        <Link to="/about">About</Link>
       </nav>
     </div>
   );
